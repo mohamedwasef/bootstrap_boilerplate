@@ -82,6 +82,17 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Google Map Init
+- Html
+```
+<div id="map"></div>
+```
+- Style
+
+```
+#map {
+margin: 0 auto;
+width: 100%;
+height: 250px;
+}
+```
